@@ -10,7 +10,7 @@
 
 오브젝트 책 스터디 진행 가이드 입니다.
 
-<image src="./image/book.jpg" width="300" />
+<image src="./image/object.png" width="300" />
 
 <br />
 
